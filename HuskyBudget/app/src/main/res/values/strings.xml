@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Husky Budget</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">"Welcome %s!"</string>
+    <string name="invalid_first_name">Please enter first name</string>
+    <string name="invalid_last_name">Please enter last name</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_confirm_password">Password does not match</string>
+    <string name="register_failed">"Register failed"</string>
+    <string name="edit_failed">"Edit failed"</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="expense_button">ADD EXPENSE</string>
+    <string name="income_button">ADD INCOME</string>
+    <string name="Budget_Remaining_Title">CURRENT BUDGET REMAINING</string>
+    <string name="user_welcome">Hello, $NAME$</string>
+    <string name="left_arrow_month"><![CDATA[<]]></string>
+    <string name="Month">January</string>
+    <string name="month_forward_arrow"><![CDATA[>]]></string>
+</resources>
